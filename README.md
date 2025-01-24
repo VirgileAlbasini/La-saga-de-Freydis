@@ -1,11 +1,13 @@
 # La-saga-de-Freydis
 
-(lien itch.io) \n
+lien itch.io: <br />
 https://m-e-t-a-4.itch.io/la-saga-de-freydis
+<br />
+<br />
 
-(lien direct des fichiers sources du jeu, les exécutables se trouvent dans "export") \n
+lien direct des fichiers sources du jeu, les exécutables se trouvent dans "export": <br />
 https://www.swisstransfer.com/d/18516eea-fd31-465c-b190-914bacd94003
-
+<br /><br /><br /><br />
 Cette courte fiction interactive en français explore une histoire alternative ( où uchronie ) à propos des vikings s'installant durablement au Vinland. Je me suis fortement inspiré du livre "Civilisations" de Laurent Binet ainsi que la saga d'Erik le rouge.  Vous incarnez le personnage partiellement fictionnel de Freydis Eiriksdottir. 
 
 
