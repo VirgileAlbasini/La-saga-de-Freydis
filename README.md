@@ -16,7 +16,7 @@ Cette courte fiction interactive en français explore une histoire alternative (
 
 
 
-Pour installer cette fiction interactive, cliquer sur le lien itch.io, installer le .zip, l'extraire, prendre garde à avoir le .pck au même endroit que l'exécutable, et lancer le jeu.
+Pour installer cette fiction interactive, cliquer sur le lien itch.io, installer le .zip, l'extraire, prendre garde à avoir le .pck au même endroit que l'exécutable (plus nécessaire sur la version windows le .pck est maintenant intergré dans le .exe), et lancer le jeu.
 
 Jeu réalisé avec le logiciel Open Source de création de jeu Godot version 4.3. 
 
